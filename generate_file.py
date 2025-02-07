@@ -16,14 +16,34 @@ TYPE_MAP = {
         "filename": "spigot_version_list.json",
         "url": "https://mcutils.com/api/server-jars/spigot",
     },
-    # "fabric": {
-    #     "filename": "fabric_version_list.json",
-    #     "url": "https://mcutils.com/api/server-jars/fabric",
-    # },
-    # "paper": {
-    #     "filename": "paper_version_list.json",
-    #     "url": "https://mcutils.com/api/server-jars/paper",
-    # },
+    "fabric": {
+        "filename": "fabric_version_list.json",
+        "url": "https://mcutils.com/api/server-jars/fabric",
+    },
+    "paper": {
+        "filename": "paper_version_list.json",
+        "url": "https://mcutils.com/api/server-jars/paper",
+    },
+    "purpur": {
+        "filename": "purpur_version_list.json",
+        "url": "https://mcutils.com/api/server-jars/purpur",
+    },
+    "forge": {
+        "filename": "forge_version_list.json",
+        "url": "https://mcutils.com/api/server-jars/forge",
+    },
+    "pufferfish": {
+        "filename": "pufferfish_version_list.json",
+        "url": "https://mcutils.com/api/server-jars/pufferfish",
+    },
+    "craftbukkit": {
+        "filename": "craftbukkit_version_list.json",
+        "url": "https://mcutils.com/api/server-jars/craftbukkit",
+    },
+    "folia": {
+        "filename": "folia_version_list.json",
+        "url": "https://mcutils.com/api/server-jars/folia",
+    },
 }
 
 
