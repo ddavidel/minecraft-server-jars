@@ -2,6 +2,7 @@
 Generate a JSON file with all the versions download links.
 """
 
+import os
 import json
 import requests
 
@@ -41,7 +42,6 @@ def get_versions(url: str) -> dict:
 
         if version_json.get("downloadUrl"):
             data_dict[versiondict["version"]] = version_json["downloadUrl"]
-            print(f"Got version {versiondict['version']}")
 
     return data_dict
 
@@ -51,7 +51,9 @@ for jar_type, data in TYPE_MAP.items():
     version_dict = get_versions(data["url"])
     print(f"Got {len(version_dict.keys())} {jar_type}versions")
 
-    with open(data["filename"], "w", encoding="utf-8") as file:
+    with open(
+        os.path.join(os.getcwd(), "versions", data["filename"]), "w", encoding="utf-8"
+    ) as file:
         json.dump(version_dict, file, indent=4)
 
     print(f"File {data['filename']} saved")
