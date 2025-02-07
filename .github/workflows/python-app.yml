@@ -37,7 +37,7 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add *_version_list.json
+        git add versions/*_version_list.json
         # Check if there are changes to commit
         if git diff --cached --quiet; then
           echo "No changes to commit."
