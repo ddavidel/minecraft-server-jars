@@ -5,6 +5,7 @@ Generate a JSON file with all the versions download links.
 import os
 import json
 import requests
+from time import sleep
 
 
 TYPE_MAP = {
@@ -77,5 +78,7 @@ for jar_type, data in TYPE_MAP.items():
         json.dump(version_dict, file, indent=4)
 
     print(f"File {data['filename']} saved")
+    # Sleep for 1 minute to avoid rate limiting
+    sleep(60)
 
 print("All files saved")
