@@ -13,10 +13,10 @@ TYPE_MAP = {
         "filename": "vanilla_version_list.json",
         "url": "https://mcutils.com/api/server-jars/vanilla",
     },
-    "spigot": {
-        "filename": "spigot_version_list.json",
-        "url": "https://mcutils.com/api/server-jars/spigot",
-    },
+    # "spigot": {  # No longer supported by mcutils API
+    #     "filename": "spigot_version_list.json",
+    #     "url": "https://mcutils.com/api/server-jars/spigot",
+    # },
     "fabric": {
         "filename": "fabric_version_list.json",
         "url": "https://mcutils.com/api/server-jars/fabric",
