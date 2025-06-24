@@ -1,1 +1,9 @@
-{}
+{
+    "1.19.4": "https://mcutils.com/api/server-jars/folia/1.19.4/download",
+    "1.20.6": "https://mcutils.com/api/server-jars/folia/1.20.6/download",
+    "1.20.1": "https://mcutils.com/api/server-jars/folia/1.20.1/download",
+    "1.20.4": "https://mcutils.com/api/server-jars/folia/1.20.4/download",
+    "1.20.2": "https://mcutils.com/api/server-jars/folia/1.20.2/download",
+    "1.21.5": "https://mcutils.com/api/server-jars/folia/1.21.5/download",
+    "1.21.4": "https://mcutils.com/api/server-jars/folia/1.21.4/download"
+}
