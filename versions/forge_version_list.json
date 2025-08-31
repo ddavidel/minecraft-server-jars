@@ -1,4 +1,12 @@
 {
+    "1.21.8": "https://mcutils.com/api/server-jars/forge/1.21.8/download",
+    "1.21.7": "https://mcutils.com/api/server-jars/forge/1.21.7/download",
+    "1.21.6": "https://mcutils.com/api/server-jars/forge/1.21.6/download",
+    "1.21.5": "https://mcutils.com/api/server-jars/forge/1.21.5/download",
+    "1.21.4": "https://mcutils.com/api/server-jars/forge/1.21.4/download",
+    "1.21.3": "https://mcutils.com/api/server-jars/forge/1.21.3/download",
+    "1.21.1": "https://mcutils.com/api/server-jars/forge/1.21.1/download",
+    "1.21": "https://mcutils.com/api/server-jars/forge/1.21/download",
     "1.20.6": "https://mcutils.com/api/server-jars/forge/1.20.6/download",
     "1.20.4": "https://mcutils.com/api/server-jars/forge/1.20.4/download",
     "1.20.3": "https://mcutils.com/api/server-jars/forge/1.20.3/download",
