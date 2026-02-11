@@ -1,13 +1,12 @@
 {
-    "1.21.11": "https://mcutils.com/api/server-jars/paper/1.21.11/download",
     "1.21.11-pre4": "https://mcutils.com/api/server-jars/paper/1.21.11-pre4/download",
-    "1.21.11-pre3": "https://mcutils.com/api/server-jars/paper/1.21.11-pre3/download",
+    "1.21.9": "https://mcutils.com/api/server-jars/paper/1.21.9/download",
+    "1.21.9-pre3": "https://mcutils.com/api/server-jars/paper/1.21.9-pre3/download",
     "1.21.9-pre2": "https://mcutils.com/api/server-jars/paper/1.21.9-pre2/download",
-    "1.21.8": "https://mcutils.com/api/server-jars/paper/1.21.8/download",
-    "1.21.7": "https://mcutils.com/api/server-jars/paper/1.21.7/download",
     "1.21.6": "https://mcutils.com/api/server-jars/paper/1.21.6/download",
     "1.21.4": "https://mcutils.com/api/server-jars/paper/1.21.4/download",
     "1.21.3": "https://mcutils.com/api/server-jars/paper/1.21.3/download",
     "1.21.1": "https://mcutils.com/api/server-jars/paper/1.21.1/download",
-    "1.21": "https://mcutils.com/api/server-jars/paper/1.21/download"
+    "1.20.2": "https://mcutils.com/api/server-jars/paper/1.20.2/download",
+    "1.20.1": "https://mcutils.com/api/server-jars/paper/1.20.1/download"
 }
